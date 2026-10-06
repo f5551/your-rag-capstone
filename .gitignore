@@ -1,0 +1,41 @@
+# Secrets
+.env
+
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.vscode/
+.idea/
+
+# Debug / temporary files
+ocr_debug/
+*.log
+
+# Backups
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Local source documents
+docs/
+
+# Evaluation files
+evaluation.py
+ragas_evaluation.py
+ragas_results_final.csv
+
+# Local-only project notes
+domain.md
+manifest.json

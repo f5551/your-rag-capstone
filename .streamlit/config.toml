@@ -1,0 +1,18 @@
+# Merge these theme sections with an existing project config if needed.
+[theme]
+base = "light"
+primaryColor = "#087F75"
+backgroundColor = "#F3F6F9"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#0F2D4A"
+font = "sans-serif"
+baseFontSize = 16
+
+[theme.sidebar]
+primaryColor = "#14B8A6"
+backgroundColor = "#0F2D4A"
+secondaryBackgroundColor = "#153D5C"
+textColor = "#EAF3FB"
+
+[browser]
+gatherUsageStats = false

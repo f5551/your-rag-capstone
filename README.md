@@ -129,7 +129,19 @@ Grounded Answer
 Citations + Sources + Page Numbers
 ```
 
----
+---## Live Demo
+
+### Streamlit Community Cloud
+https://your-rag-capstone-gjpc8ekg43xhtyyv5mmjea.streamlit.app/
+
+### Railway
+https://your-rag-capstone-production.up.railway.app/
+
+### Demo Login
+
+```text
+Username: user
+Password: 12345
 
 ## 5.2 معمارية إدخال المستندات Ingestion Architecture
 
